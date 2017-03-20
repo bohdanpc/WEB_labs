@@ -129,7 +129,7 @@ a {
   padding: 14px;
 }
 
-.products {
+.works {
   background: #EEEFF1;
   box-sizing: border-box;
   width: 90%;
@@ -156,51 +156,13 @@ a {
   text-align: center;
 }
 
-
-
-.product {
+.work {
   display: inline-block;
   margin: 0px 2% 80px 2%;
   text-align: center;
   width: 45%;
 }
 
-.product img {
-  width: 100%;
-}
-
-.blue {
-  color: #14213D !important;
-}
-
-
-
-
-
-.byline {
-  color: rgba(255, 255, 255, 0.5);
-  float: left;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 100;
-  font-size: 14px;
-  padding-left: 10px;
-  text-transform: uppercase;
-}
-
-.caption {
-  background-color: rgba(0, 0, 0, 0.6);
-  color: rgba(255, 255, 255, 0.65);
-  display: block;
-  font-family: 'Playfair Display', serif;
-  font-size: 14px;
-  font-style: italic;
-  line-height: 14px;
-  margin-left: 20px;
-  padding: 10px;
-  position: relative;
-  top: 90%;
-  width: 60%;
-}
 
 .content {
   padding: 40px;
@@ -208,17 +170,9 @@ a {
 
 .writer-img {
   box-sizing: border-box;
-  padding: 10px;
+  padding: 2px;
   position: relative;
   text-align: left;
-  top: 150px;
-  width: 12%;
-  top: 150px;
-}
-
-.image {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-4/htmlcss1-img_soccer.jpeg");
-  background-size: cover;
-  background-position: center;
-  height: 300px;
+  top: 100px;
+  width: 8%;
 }
